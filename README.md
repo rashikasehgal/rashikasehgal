@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h1 align="centre">Hi 👋, Im Rashika Sehgal</h1>h1>
+<h3 align= "centre">
+- 🔭 Im in my 1st year in Btech CSE couse in UPES, Dehradun
+- 🌱 Im presently learning Git and Github
+- 💬 My hobbies are art and dance
+- ⚡ Fun fact about me: I look at things and think of ways to draw them on paper
 <!--
 **rashikasehgal/rashikasehgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
