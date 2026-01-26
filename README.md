@@ -1,6 +1,5 @@
 <h1 align="centre">Hi 👋, Im Rashika Sehgal</h1>h1>
 <h3 align= "centre">
-- 🔭  Im in my 2nd year in Btech CSE couse in UPES, Dehradun
 <!--
 **rashikasehgal/rashikasehgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
