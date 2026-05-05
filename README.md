@@ -53,14 +53,6 @@ class RashikaSehgal:
         self.belief = "Data tells stories. Design makes them human."
 ```
 
-<div align="center">
-
-✨ I like building products where **intelligence meets clarity**  
-🧠 Turning raw data into **useful models, insights, and systems**  
-🎨 Designing interfaces that make complex workflows feel **simple and elegant**  
-🚀 Currently exploring **ML systems, NLP workflows, and human-centered product design**
-
-</div>
 
 ---
 
