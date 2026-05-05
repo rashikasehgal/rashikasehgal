@@ -132,14 +132,6 @@ class RashikaSehgal:
 </td>
 <td width="50%" valign="top">
 
-### 🎟️ BookWise — Event Booking Platform
-**A sleek dark-mode booking experience**
-
-- Designed end-to-end booking flow from **discovery to checkout**  
-- Built consistent visual language across screens  
-- Focused on usability, hierarchy, and clean interactions  
-
-**Focus:** `User Flow` `Wireframing` `Dark UI` `Figma`
 
 </td>
 </tr>
