@@ -155,31 +155,10 @@ class RashikaSehgal:
 
 ---
 
-## ✦ Experience
 
-### **Aaron Softech Pvt. Ltd.** — Data Science & ML Intern  
-`Jun 2025 • 6 weeks`
-
-- Automated **medical data extraction** from clinical records  
-- Normalized **120+ test parameters** for ML-ready classification  
-- Structured datasets that improved downstream classification workflows  
-
-### **Ivy Herbals** — Graphic Designer  
-`Nov 2024 • 24 weeks`
-
-- Designed **product labels, mono cartons, and digital creatives**  
-- Delivered brand-consistent assets using **Photoshop** and **Illustrator**  
-- Worked across packaging, marketing, and visual branding touchpoints  
 
 ---
 
-## ✦ Achievements & Leadership
-
-- 🏆 **Hackathon 4.0 Finalist** — UPES CSA Hackathon (`Top 10 / 180+ teams`)
-- 🚀 **Smart India Hackathon** — Internal Selection (`Top 45 / 200 teams`)
-- 💡 **Hackathon 8.0 Participant** — UPES CSI Hackathon
-- 🎨 **Design Head** — Computer Society of India, UPES (`2023 – Present`)
-- ✍️ **Editorial Committee** — RRR, UPES (`2023 – 2025`)
 
 ---
 
