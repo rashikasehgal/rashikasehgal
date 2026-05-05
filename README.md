@@ -96,34 +96,6 @@ class RashikaSehgal:
 
 ---
 
-## ✦ GitHub Dashboard
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rashikasehgal&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&bg_color=00000000&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashikasehgal&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=00000000" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=rashikasehgal&theme=transparent&hide_border=true&background=00000000&stroke=58A6FF&ring=79C0FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=rashikasehgal&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
-
-</div>
-
----
-
-## ✦ Activity Pulse
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rashikasehgal&bg_color=0d1117&color=8b949e&line=58a6ff&point=79c0ff&area=true&hide_border=true&title_color=58a6ff&custom_title=Rashika's%20Contribution%20Graph" />
-
-</div>
-
----
 
 ## ✦ Design Philosophy
 
