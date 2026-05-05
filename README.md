@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,25:111827,50:1a1a2e,75:16213e,100:58A6FF&text=Rashika%20Sehgal&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems+that+think+clearly+and+look+beautiful;ML+Engineering+%E2%80%A2+NLP+Pipelines+%E2%80%A2+Predictive+Models;Designing+interfaces+that+feel+human%2C+fast%2C+and+intentional;B.Tech+CSE+%40+UPES+%7C+CGPA+8.88+%7C+Dehradun%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems+that+think+clearly+and+look+beautiful;ML+Engineering+%E2%80%A2+NLP+Pipelines+%E2%80%A2+Predictive+Models;Designing+interfaces+that+feel+human%2C+fast%2C+and+intentional;B.Tech+CSE+%40+UPES+%7C+%7C+Dehradun%2C+India" alt="Typing SVG" />
 
 <br/>
 
