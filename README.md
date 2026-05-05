@@ -36,7 +36,6 @@ class RashikaSehgal:
         self.side_quest = "UI/UX Designer"
         self.university = "UPES, Dehradun"
         self.degree = "B.Tech CSE (2023–2027)"
-        self.cgpa = 8.88
         self.location = "Dehradun, India"
 
         self.focus = [
