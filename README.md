@@ -83,56 +83,6 @@ class RashikaSehgal:
 <img src="https://img.shields.io/badge/Wireframing-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Prototyping-A259FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
 
-</div>
-
----
-
-## ✦ What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-Driven Job Match & Skill Gap Analyzer
-**Semantic hiring intelligence at scale**
-
-- Processed **5,000+ resumes** using NLP-based similarity scoring  
-- Identified skill gaps and generated **personalized recommendations**  
-- Reduced manual screening effort by **60%**  
-
-**Stack:** `Python` `FastAPI` `MongoDB` `TF-IDF` `Cosine Similarity` `Gemini API`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 Crop Yield Prediction System
-**Machine learning for agriculture intelligence**
-
-- Trained on **10,000+ agricultural records**  
-- Engineered features from **soil, climate, and seasonal data**  
-- Achieved **R² score of 0.85+** after tuning  
-
-**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🇮🇳 India Post Website Redesign
-**Research-driven UI/UX redesign**
-
-- Reworked navigation and information hierarchy  
-- Built user flows and high-fidelity screens in **Figma**  
-- Simplified complex service journeys for better usability  
-
-**Focus:** `UX Research` `Information Architecture` `Wireframing` `Prototyping`
-
-</td>
-<td width="50%" valign="top">
-
-
 </td>
 </tr>
 </table>
